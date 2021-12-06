@@ -1,0 +1,14 @@
+{
+  "name": "mongodb-clone",
+  "description": "perform mongodb collection clone from given source to given destination",
+  "version": "1.0.0",
+  "bin": "mongodb-clone.js",
+  "website": "https://gist.github.com/devtin/9ab5b5bc63d6f2cd4163998d55578564",
+  "author": "Martin Gonzalez <tin@devtin.io>",
+  "license": "MIT",
+  "dependencies": {
+    "cli-progress": "^3.9.1",
+    "mongodb": "^3.7.3",
+    "stream-flow-async": "^1.0.0"
+  }
+}
