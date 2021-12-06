@@ -31,6 +31,8 @@ Then go ahead and:
 npx mongodb-clone
 ```
 
+<img src="./mongodb-clone.gif" width="800">
+
 * * *
 
 ## License

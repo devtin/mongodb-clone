@@ -1,8 +1,13 @@
 {
   "name": "mongodb-clone",
   "description": "performs mongodb collection clone from given source to given destination using streams",
-  "keywords": ["mongodb", "backup", "clone", "stream"],
-  "version": "1.0.1",
+  "keywords": [
+    "mongodb",
+    "backup",
+    "clone",
+    "stream"
+  ],
+  "version": "1.0.2",
   "bin": "mongodb-clone.js",
   "website": "https://gist.github.com/devtin/9ab5b5bc63d6f2cd4163998d55578564",
   "author": "Martin Gonzalez <tin@devtin.io>",
